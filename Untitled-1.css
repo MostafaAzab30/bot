@@ -1,0 +1,156 @@
+
+
+
+.icon1 {
+
+color: rgb(206, 26, 161);
+
+
+}
+
+.icon2 {
+
+color: rgb(14, 14, 216);
+
+
+}
+
+.icon3 {
+
+color: yellow;
+
+
+}
+
+.icon4 {
+
+color: red;
+
+
+}
+
+.icon5 {
+
+color: green;
+
+
+}
+
+.icon6 {
+
+color: rgb(75, 75, 180);
+
+
+}
+
+.icon7 {
+
+color: pink;
+
+
+}
+
+.icon8 {
+
+color: rgb(2, 2, 90);
+
+
+}
+
+.icon9 {
+
+color: orange;
+
+
+}
+
+.icon10 {
+
+color: blue;
+
+
+}
+
+.stylish:hover {
+
+background-color: rgb(218, 83, 83);
+transition: all 0.5s;
+
+}
+
+
+.dashed {
+
+border: dashed 1px rgb(148, 141, 141) ;
+
+}
+
+.colored {
+
+background-color: rgb(201, 210, 218);
+cursor: pointer;
+
+}
+
+
+
+
+
+.lefts {
+
+display: flex;
+justify-content: end;
+
+
+}
+
+.aligno {
+
+line-height: 16px !important;
+
+}
+
+.hevo:hover {
+
+color: rgb(109, 17, 184);
+transition: all 0.3s;
+cursor: pointer;
+
+}
+
+.smaler{
+
+font-size: 0.9rem;
+
+
+}
+
+.pareoint{
+
+    justify-content: space-evenly;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
